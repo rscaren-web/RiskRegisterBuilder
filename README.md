@@ -78,4 +78,4 @@ MIT License
 
 ---
 
-Built by **William Asare Yirenkyi** & **Rose Achar**
+Built by **Rose Achar** ([LinkedIn](http://www.linkedin.com/in/rose-achar)) & **William Asare Yirenkyi** ([LinkedIn](https://www.linkedin.com/in/william-asare-yirenkyi/))
