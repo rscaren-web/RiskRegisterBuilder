@@ -4,6 +4,9 @@ A professional, full-stack web application for creating, managing, and visualizi
 
 **Live Demo:** [risk-register-builder.onrender.com](https://risk-register-builder.onrender.com)
 
+![Dashboard](./screenshots/dashboard.png)
+![Heat Map](./screenshots/heatmap.png)
+
 ## Features
 
 - **Guided Risk Wizard** - Step-by-step workflow: identify assets, threats, controls, then assess risks with clickable rating grids
